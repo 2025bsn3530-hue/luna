@@ -1,2 +1,0 @@
-# luna
-my reviewers
